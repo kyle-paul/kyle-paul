@@ -11,13 +11,12 @@
 - 🔥 Passion: Competitive programming & Basketball.
 - 👀 Mostly use: Python, C/C++, JavaScript.
 
+🌱 I'm currently studying at Le Hong Phong High School for the Gifted in the English specialized class. Additionally, I am a student and teaching assistant at [CoTAI](https://www.cot.ai) (Center of Talents in AI), and I am also a student at [BigOCoding](https://bigocoding.com).
 
-🌱 I'm learning at Le Hong Phong High School for the Gifted (English specialized class), a student & teaching assistant at [CoTAI](https://www.cot.ai) (Center of Talents in AI), a student at [BigOCoding](https://bigocoding.com).
-
-🔭 I'm searching for opportunty to do research in collaboration with anyone passionate about research in Deep Learning, especially computer vison in medical imaging. I'm willing to participate in any Software Engineering project too.
+🔭 I am actively seeking opportunities to engage in research collaboration with individuals passionate about Deep Learning, particularly in computer vision applied to medical imaging. I am also interested in participating in Software Engineering projects.
 
 **My previous effort:**
-> No itention of showoff, just as a trustworthy indicator of my ability for future collaboration.
+> No itention of showing off, just using it as a trustworthy indicator of my abilities for future collaboration.
 
 - 1st at the national-level Vietnam Science & Engineering Fair (VISEF) (2024).
 - 3rd in a city-level Computer Science specialized competition (CP) (2024).
@@ -27,7 +26,7 @@
 
 **My projects:**
 - VasculAR (2024): Medical-aided software for 3D cardiovascular reconstruction via Deep Learning. 🏆 **1st VISEF**
-- RotCAtt-TransUNet++ (2024): Deep Learning model for medical image segmentation
+- RotCAtt-TransUNet++ (2024): Self-designed Deep Learning model for medical image segmentation.
 - Volume computation for reconstructed 3D objects (2024): Algorithm & Data structure & Mathematics.
 - TedUp (2023): Recommender System & NLP & UI/UX 🏆 **1st UI/UX award Hackathon Round 2/3**
 - Skin Disease Detector (2023): Transfer learning for image classification 🏆 **Top 5 Hackathon Round 1**
