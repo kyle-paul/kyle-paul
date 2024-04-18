@@ -28,9 +28,9 @@
 - VasculAR (2024): Medical-aided software for 3D cardiovascular reconstruction via Deep Learning. 🏆 **1st VISEF**
 - RotCAtt-TransUNet++ (2024): Self-designed Deep Learning model for medical image segmentation.
 - Volume computation for reconstructed 3D objects (2024): Algorithm & Data structure & Mathematics.
-- TedUp (2023): Recommender System & NLP & UI/UX 🏆 **1st UI/UX award Hackathon Round 2/3**
+- TedUp (2023): Recommender system & NLP & UI/UX 🏆 **1st UI/UX award Hackathon Round 2/3**
 - Skin Disease Detector (2023): Transfer learning for image classification 🏆 **Top 5 Hackathon Round 1**
-- English machine (2022): Hand-written letters classification & Translation.
+- English machine (2022): Hand-written letters classification & Language translation.
 
 <div style="display: flex; justify-content: space-around; align-items: stretch;">
     <img style="max-width: 48%;"src="https://github-readme-stats.vercel.app/api?username=kyle-paul&theme=dracula&show_icons=true&hide_border=false&count_private=true" alt="GitHub Stats" style="flex: 1;">
