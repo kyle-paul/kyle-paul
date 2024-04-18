@@ -33,4 +33,7 @@
 - Skin Disease Detector (2023): Transfer learning for image classification 🏆 **Top 5 Hackathon Round 1**
 - English machine (2022): Hand-written letters classification & Translation.
 
-![Bao's Stats](https://github-readme-stats.vercel.app/api?username=kyle-paul&theme=dracula&show_icons=true&hide_border=false&count_private=true) ![Bao's Stats](https://streak-stats.demolab.com/?user=kyle-paul&theme=dracula)
+<div style="display: flex; justify-content: space-around; align-items: stretch;">
+    <img style="max-width: 48%;"src="https://github-readme-stats.vercel.app/api?username=kyle-paul&theme=dracula&show_icons=true&hide_border=false&count_private=true" alt="GitHub Stats" style="flex: 1;">
+    <img style="max-width: 48%;" src="https://streak-stats.demolab.com/?user=kyle-paul&theme=dracula" alt="GitHub Streak" style="flex: 1;">
+</div>
