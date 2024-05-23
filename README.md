@@ -6,9 +6,9 @@
 ![](https://img.shields.io/badge/-PyTorch-ef3939?style=flat-square&logo=PyTorch&logoColor=fff)
 ![](https://img.shields.io/badge/-TensorFlow-f9c23c?style=flat-square&logo=TensorFlow&logoColor=fff)
 
-- ⚒️ Skills: Deep Learning (computer vision + NLP), Web & App development, model architecture design & deployment.
-- 🌟 Highlights: Medical Imaging.
-- 🔥 Passion: Competitive programming & Basketball.
+- ⚒️ Skills: Deep Learning, Web & App Development, Model Architecture Design & Deployment.
+- 🌟 Highlights: Computer Vision.
+- 🔥 Passion: Competitive Programming & Basketball.
 - 👀 Mostly use: Python, C/C++, JavaScript.
 
 🌱 I'm currently studying at Le Hong Phong High School for the Gifted in the English specialized class. Additionally, I am a student and teaching assistant at [CoTAI](https://www.cot.ai) (Center of Talents in AI), and I am also a student at [BigOCoding](https://bigocoding.com).
@@ -23,7 +23,7 @@
 - 3rd in a city-level Computer Science specialized competition (CP) - 2024.
 - 1st programmer award + 1st user experience award at a nationwide Hackathon - 2023.
 - Top 10 team at the final round of the AIC-AI Challenge - 2023.
-- 2nd in a city-level English specialized competition 2021.
+- 2nd in a city-level English specialized competition - 2021.
 
 **My projects:**
 - VasculAR (2024): Medical-aided software for 3D cardiovascular reconstruction via Deep Learning. 🏆 **1st VISEF & 2nd ISEF**
