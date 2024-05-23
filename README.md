@@ -27,7 +27,7 @@
 
 **My projects:**
 - VasculAR (2024): Medical-aided software for 3D cardiovascular reconstruction via Deep Learning. 🏆 **1st VISEF & 2nd ISEF**
-- RotCAtt-TransUNet++ (2024): Self-designed Deep Learning model for medical image segmentation. 🏆 **2nd ISEF**
+- RotCAtt-TransUNet++ (2024): Novel Deep Learning model for medical image segmentation (paper). 🏆 **2nd ISEF**
 - Volume computation for reconstructed 3D objects (2024): Algorithm & Data structure & Mathematics.
 - TedUp (2023): Recommender system & NLP & UI/UX 🏆 **1st UI/UX award Hackathon Round 2/3**
 - Skin Disease Detector (2023): Transfer learning for image classification 🏆 **Top 5 Hackathon Round 1**
