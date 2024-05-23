@@ -18,15 +18,16 @@
 **My previous effort:**
 > No itention of showing off, just using it as a trustworthy indicator of my abilities for future collaboration.
 
-- 1st at the national-level Vietnam Science & Engineering Fair (VISEF) (2024).
-- 3rd in a city-level Computer Science specialized competition (CP) (2024).
-- 1st programmer award at a nationwide Hackathon (2023).
-- Top 10 team at the final round of the AIC-AI Challenge (2023).
-- 2nd in a city-level English specialized competition (2021).
+- 2nd at the Regeneron International Science and Engineering Fair (ISEF) - 2024.
+- 1st at the national-level Vietnam Science & Engineering Fair (VISEF) - 2024.
+- 3rd in a city-level Computer Science specialized competition (CP) - 2024.
+- 1st programmer award + 1st user experience award at a nationwide Hackathon - 2023.
+- Top 10 team at the final round of the AIC-AI Challenge - 2023.
+- 2nd in a city-level English specialized competition 2021.
 
 **My projects:**
-- VasculAR (2024): Medical-aided software for 3D cardiovascular reconstruction via Deep Learning. 🏆 **1st VISEF**
-- RotCAtt-TransUNet++ (2024): Self-designed Deep Learning model for medical image segmentation.
+- VasculAR (2024): Medical-aided software for 3D cardiovascular reconstruction via Deep Learning. 🏆 **1st VISEF & 2nd ISEF**
+- RotCAtt-TransUNet++ (2024): Self-designed Deep Learning model for medical image segmentation. 🏆 **2nd ISEF**
 - Volume computation for reconstructed 3D objects (2024): Algorithm & Data structure & Mathematics.
 - TedUp (2023): Recommender system & NLP & UI/UX 🏆 **1st UI/UX award Hackathon Round 2/3**
 - Skin Disease Detector (2023): Transfer learning for image classification 🏆 **Top 5 Hackathon Round 1**
